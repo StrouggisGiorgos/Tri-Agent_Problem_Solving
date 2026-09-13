@@ -1,7 +1,7 @@
 # Tri-Agent_Problem_Solving
 The original workflow developed for Chapter 4 of the thesis: LLMs for Tabular Data.
 
-![Tri-Agent Workflow](image-url)
+![Tri-Agent Workflow](tri_agent_workflow.png)
 
 **Tri-Agent Problem Solving** is the name we decided to give to our prompting technique. As the name suggests, it utilizes three separate agents each to perform their own tasks:
 
